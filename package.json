@@ -30,4 +30,5 @@
       "node": ">= 0.12"
    },
    "engineStrict": true
+    
 }
